@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu me chamo Rodolfo! 👋
 
-<!--
-**rodolfodev07/rodolfodev07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do 3º ano do Ensino Médio | Futuro Engenheiro de Software  
+💻 Entusiasta por tecnologia, programação e desenvolvimento web  
+📚 Estudando Python, JavaScript e desenvolvimento front-end  
 
-Here are some ideas to get you started:
+🌟 **O que estou aprendendo?**  
+- Python (Curso em Vídeo, projetos práticos)
+- JavaScript e desenvolvimento web (HTML, CSS, React)
+- Algoritmos e estrutura de dados  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Entre em contato comigo:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodolfo-dev-58b05234b/)  
